@@ -1,0 +1,1 @@
+SELECT * FROM shopease_db.customers;
